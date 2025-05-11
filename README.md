@@ -14,7 +14,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DarthTrebor&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="DarthTrebor" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=DarthTrebor&label=Profile%20views&color=2b57d9&style=for-the-badge&logo=star" alt="DarthTrebor" style="padding-right:20px;" />
 </p>
 
 ---
