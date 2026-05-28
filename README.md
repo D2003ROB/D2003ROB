@@ -1,9 +1,6 @@
 <!--Banner-->
 ![A "me" designed by AI](./banner.png)
 
-*Developer by day, explorerer by night*
-<br /> 
-
 <!--Start Intro-->               
 <p align="left">I’m a Full Stack Developer at Broadridge, driven by a passion for building solutions that make a difference and contribute to global progress. </p>
 
